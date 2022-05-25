@@ -14,7 +14,6 @@ public class jenkinsgitclass {
 		driver.get("https://www.facebook.com");
 		Thread.sleep(5000);
 		System.out.println(driver.getCurrentUrl());
-		System.out.println(driver.getCurrentUrl());
 		System.out.println("hello");
 		System.out.println("hello");
 		
