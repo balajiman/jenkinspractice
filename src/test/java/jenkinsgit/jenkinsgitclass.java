@@ -15,8 +15,8 @@ public class jenkinsgitclass {
 		Thread.sleep(5000);
 		System.out.println(driver.getCurrentUrl());
 		System.out.println(driver.getCurrentUrl());
-		System.out.println(driver.getCurrentUrl());
-		System.out.println(driver.getCurrentUrl());
+		System.out.println("hello");
+		
 		driver.quit();
 	}
 
