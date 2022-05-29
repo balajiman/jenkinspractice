@@ -18,7 +18,7 @@ public class jenkinsgitclass {
 		System.out.println("hello");
 		System.out.println(driver.getCurrentUrl());
 		System.out.println("hello");
-		
+		System.out.println("hello");
 		
 		
 		
